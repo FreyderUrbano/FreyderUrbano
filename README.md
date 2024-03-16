@@ -19,6 +19,8 @@
 
 - Passionate about mobile development
 - Constantly learning about new technologies
+- Udemy Student 24/7
+- I worked in a group at the Katary Software company in my city [link](https://katary.co/)
 - Currently learning android mobile development under Kotlin
 - Personal website [link](https://freyderurbano.github.io/)
 - I’m currently open for an Intern or a new job opportunity, this is Linkedin [my resume](www.linkedin.com/in/freyder-alejandro-urbano-rosales-07652b11b)
