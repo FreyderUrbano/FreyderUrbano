@@ -147,7 +147,7 @@
 
 <div align='center'>
 
-## <b>السَّلاَمُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ...✨</b>
+## <b>WELCOME EVERYONE PASSIONATE ABOUT WEB OR MOBILE DEVELOPMENT...✨</b>
 
 </div>
 <br>
