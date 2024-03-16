@@ -68,6 +68,7 @@
 
 - **Extras**:
   <br>
+  <br>
     ![Wordpress](https://img.shields.io/badge/Wordpress-black?style=for-the-badge&logo=wordpress)
     ![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
     ![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
