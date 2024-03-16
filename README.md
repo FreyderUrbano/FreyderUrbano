@@ -66,7 +66,6 @@
     ![AndroidStudio](https://img.shields.io/badge/Android%20Studio-black?style=for-the-badge&logo=androidstudio)
  
 <br>
-<br>
 
 - **Extras**:
     ![Wordpress](https://img.shields.io/badge/Wordpress-black?style=for-the-badge&logo=wordpress)
@@ -77,7 +76,6 @@
 
 </p>
 
-<br>
 <br>
 
 -----
