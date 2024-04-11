@@ -161,6 +161,6 @@
 
 <br>
 
-Credit: [Abdul Khalid](https://github.com/0xabdulkhalid)
+Credit: [Freyder Urbano](https://github.com/FreyderUrbano)
 
 Last Edited on: 09/11/2022
