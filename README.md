@@ -11,7 +11,7 @@
 
 
 	
-## <picture><img src = "https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif" width = 60px></picture> **About me**
+## <picture><img src = "https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif" width = 100px></picture> **About me**
 
 
 
